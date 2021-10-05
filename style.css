@@ -1,1 +1,35 @@
-/* nothing here */
+body {
+    background-color: black;
+    color: #fff;
+}
+
+
+h1 {
+    font-size: 150px;
+    margin-top: 1;
+}
+
+p {
+    font-size: 20px;
+}
+
+.read {
+    color: red;
+    text-decoration: none;
+    padding-bottom: 50px;
+    display: block;
+}
+
+.watch {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    border: 5px solid #ff3030;
+    border-radius: 100px;
+    background-color: #ff3030;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 50px;
+
+}
